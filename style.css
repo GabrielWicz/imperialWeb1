@@ -1,0 +1,31 @@
+h1{
+    color: #1ed861;
+    background-color: #202630;
+    width: 290px;
+    padding: 6px;
+    margin: auto;
+}
+
+body{
+    text-align: center;
+    background-color: #b8b6b6;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+img{
+    width: 300px;
+    padding-top: 10px;
+}
+
+a{
+    text-decoration: none;
+    background-color: #1db655;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 3px;
+    box-shadow: 3px 3px 3px gray;
+}
+
+a:hover{
+    background-color: #0f5729;}
